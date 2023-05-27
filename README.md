@@ -75,7 +75,13 @@ export default SaurabhSen;
   </td>
 </tr>
 </table>
+
 <!--- stats (end) -->
+
+<!-- wakatime stats -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## ⏳ WakaTime Stats
+ <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=saurabhsen&theme=react&show_icons=true&layout=compact" /> 
 
 <!--- trophy (start) -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
