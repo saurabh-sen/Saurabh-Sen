@@ -14,7 +14,6 @@ const SaurabhSen = () => {
   return (
     <div>
       <h2>Frontend Developer</h2>
-      <p>With 2 years of experience in project, freelance, and intern roles.</p>
       <p>Proficient in:</p>
       <ul>
         <li>HTML, CSS, JavaScript, TypeScript</li>
