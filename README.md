@@ -1,9 +1,12 @@
 <!-- name -->
+ <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=saurabhsen&label=Profile%20Views&color=12&icon=2&pretty=true" />
+  </a>
 <h1 align="center"><b>Hello World 🚀, I'm <a href="https://saurabhsen.me">Saurabh Sen </a></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- animated about -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Frontend+Dev+%7C+2%EF%B8%8F%E2%83%A3+yrs+exp.;HTML+CSS+JS+%F0%9F%94%B7TS+React.Js;Next.js+Tailwind+CSS+Node.js+MongoDB" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Frontend+Dev.;HTML+CSS+JS+%F0%9F%94%B7 TypeScript+ReactJS;NextJS+TailwindCss+CSS+Node.js+MongoDB" alt="Typing SVG" /></a>
 </p>
 
 ## SaurabhSen.jsx
@@ -104,9 +107,6 @@ export default SaurabhSen;
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=saurabhsen&label=Profile%20Views&color=12&icon=2&pretty=true" />
-  </a>
   <a href="https://saurabhsen.me"><img src="https://img.shields.io/badge/-saurabhsen.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/saurabh-sen-profile"><img src="https://img.shields.io/badge/-Saurabh%20Sen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:sensaurabh1212@gmail.com"><img src="https://img.shields.io/badge/-sensaurabh1212@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
