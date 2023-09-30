@@ -6,7 +6,7 @@
 
 <!-- animated about -->
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Frontend+Dev.;HTML+CSS+JS+%F0%9F%94%B7 TypeScript+ReactJS;NextJS+TailwindCss+CSS+Node.js+MongoDB" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&center=true&width=435&lines=Frontend+Engineer;HTML+CSS+JS+%F0%9F%94%B7 TypeScript+ReactJS;NextJS+TailwindCss+NodeJS+MongoDB" alt="Typing SVG" /></a>
 </p>
 
 ## SaurabhSen.jsx
